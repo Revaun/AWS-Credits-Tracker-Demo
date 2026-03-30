@@ -1,4 +1,5 @@
-![AWS Portfolio Banner](Banner/AWS Portfolio Banner.png)
+![AWS Portfolio Banner](Banner/AWS-Portfolio-Banner.png)
+
 
 # 🌍 AWS Credits Tracker Demo Portfolio
 
