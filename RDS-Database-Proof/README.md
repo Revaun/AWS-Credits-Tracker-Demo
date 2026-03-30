@@ -87,4 +87,6 @@ The proof snapshots highlight technical execution, secure connectivity, and quer
 All steps were executed in the Cape Town region (af-south-1), demonstrating local AWS expertise and database deployment skills.  
 By documenting this activity, the project emphasizes both technical depth and professional polish — key skills for cloud engineering and DevOps roles.
 
-[⬅️ Back to Portfolio](../main-README.md)
+
+[⬅️ Back to Portfolio](../README.md)
+
