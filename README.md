@@ -11,6 +11,7 @@ All demos were executed in the **af-south-1 (Cape Town)** region to highlight lo
 ## 📂 Project Index
 
 ### 🖥️ EC2 Setup Proof
+![EC2 Setup Proof Banner](EC2-Setup-Proof/EC2-Setup-Proof Banner/EC2-Setup-Proof.png)  
 Launch and validate an EC2 instance in Cape Town.  
 Proof includes AMI selection, instance configuration, SSH access, and hosted web server verification.  
 ➡️ [View EC2 Setup Proof](EC2-Setup-Proof/)
@@ -18,7 +19,7 @@ Proof includes AMI selection, instance configuration, SSH access, and hosted web
 ---
 
 ### 🗄️ RDS Database Proof
-![RDS Setup Proof Banner](RDS-Database-Proof/RDS Setup Proof Banner.png)  
+![RDS Setup Proof Banner](RDS-Database-Proof/RDS Setup Proof Banner/RDS Setup Proof Banner.png)  
 Deploy and connect to an Amazon RDS MySQL instance with SSL enabled.  
 Proof includes instance setup, secure connectivity, and SQL query execution.  
 ➡️ [View RDS Database Proof](RDS-Database-Proof/)
@@ -26,7 +27,7 @@ Proof includes instance setup, secure connectivity, and SQL query execution.
 ---
 
 ### 💰 Budget Proof AWS
-![BudgetProof‑AWS Banner](BudgetProof-AWS/BudgetProof‑AWS banner.png)  
+![BudgetProof‑AWS Banner](BudgetProof-AWS/BudgetProof-AWS banner/BudgetProof-AWS banner.png)  
 Configure AWS Budgets for proactive cost management.  
 Proof includes budget creation, threshold setup, and monitoring dashboard.  
 ➡️ [View Budget Proof AWS](BudgetProof-AWS/)
@@ -61,3 +62,7 @@ Proof includes bucket setup, hosting configuration, public access policy, and li
 
 This portfolio demonstrates technical depth, security awareness, and financial discipline — all critical skills for cloud engineering and DevOps roles.  
 Every demo is designed to be recruiter‑friendly, verifiable, and polished for professional presentation.
+
+---
+
+[⬅️ Back to Portfolio](../README.md)
