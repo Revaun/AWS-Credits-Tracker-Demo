@@ -38,17 +38,15 @@ It provides recruiter‑ready proof snapshots covering instance creation, securi
 
 ---
 
-### Access Verification
-
-- ![SSH Access Proof](snapshots/ssh_access_verified.png)  
-  *Secure login to CreditsTracker-EC2 in Cape Town — access verified.*
+## ✅ Access Verification
+![SSH Access Proof](https://github.com/Revaun/AWS-Credits-Tracker-Demo/blob/main/EC2-Setup-Proof/snapshots/SSH%20Access%20Verified.png)  
+Secure login to **CreditsTracker-EC2** in Cape Town — access verified.
 
 ---
 
-### Hosting Verification
-
-- ![Web Server Proof](snapshots/web_server_proof.png)  
-  *Web server running on CreditsTracker-EC2 in Cape Town — hosted content verified.*
+## 🌐 Hosting Verification
+![Web Server Proof](https://github.com/Revaun/AWS-Credits-Tracker-Demo/blob/main/EC2-Setup-Proof/snapshots/Web%20Server%20Proof.PNG)  
+Web server running on **CreditsTracker-EC2** in Cape Town — hosted content verified.
 
 ---
 
