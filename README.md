@@ -35,9 +35,8 @@ All demos were executed in the **af-south-1 (Cape Town)** region to highlight lo
 ---
 
 ### 🌐 AWS Lambda Security Demo
-
-This project demonstrates the end-to-end process of configuring IAM credentials, creating a secure Lambda function, and invoking it successfully.  
-Proof includes CLI commands, IAM setup, function deployment, and snapshots showing troubleshooting, correction, and final success.  
+![Lambda Banner](Banner-Images/lambda_banner.png)  
+**Caption:** Secure Lambda function deployment & validation proof  
 ➡️ [View LambdaDemo](https://github.com/Revaun/LambdaDemo)
 
 ---
