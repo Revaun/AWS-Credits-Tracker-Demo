@@ -1,4 +1,4 @@
-![RDS Setup Proof Banner](RDS Setup Proof Banner.png)
+![RDS Setup Proof Banner](../Banner-Images/rds_setup_proof_banner.png)
 
 # 🗄️ AWS RDS Demo Proof
 
@@ -88,5 +88,5 @@ All steps were executed in the Cape Town region (af-south-1), demonstrating loca
 By documenting this activity, the project emphasizes both technical depth and professional polish — key skills for cloud engineering and DevOps roles.
 
 
-[⬅️ Back to Portfolio](../README.md)
+[⬅️ Back to Portfolio](https://github.com/Revaun)
 

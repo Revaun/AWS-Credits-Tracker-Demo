@@ -1,4 +1,5 @@
-![BudgetProof‑AWS banner](BudgetProof‑AWS banner.png)
+![BudgetProof Banner](../Banner-Images/budgetproof_banner.png)
+
 
 # 💰 AWS Budgets Proof
 
@@ -31,5 +32,5 @@ This folder demonstrates proactive AWS cost‑management through the setup of an
 The proof snapshots highlight financial awareness, threshold configuration, and monitoring discipline.  
 By documenting this activity, the project showcases both technical execution and cost control — essential skills for cloud engineering and DevOps roles.
 
-[⬅️ Back to Portfolio](../README.md)
+[⬅️ Back to Portfolio](https://github.com/Revaun)
 

@@ -1,4 +1,4 @@
-![Bedrock Model Demo Banner](Bedrock Model Demo Banner.png)
+![Bedrock Banner](../Banner-Images/bedrock_banner.png)
 
 # 🤖 Bedrock Model Demo
 
@@ -34,4 +34,5 @@ This folder demonstrates AWS generative AI capabilities through the use of a fou
 The proof snapshots highlight technical execution, prompt handling, and model inference.  
 By documenting this activity, the project emphasizes both technical depth and professional polish — key skills for cloud engineering roles.
 
-[⬅️ Back to Portfolio](../README.md)
+
+[⬅️ Back to Portfolio](https://github.com/Revaun)
