@@ -1,4 +1,5 @@
-![EC2 Setup Proof Banner](EC2-Setup-Proof.png)
+![EC2 Setup Proof Banner](../Banner-Images/ec2_demo_banner.png)
+
 
 # 🖥️ EC2 Setup Proof
 
@@ -66,4 +67,4 @@ The proof snapshots highlight technical execution, secure access, and hosted con
 All steps were executed in the Cape Town region (af-south-1), demonstrating local AWS expertise and secure infrastructure setup.  
 By documenting this activity, the project emphasizes both technical depth and professional polish — key skills for cloud engineering roles.
 
-[⬅️ Back to Portfolio](../README.md)
+[⬅️ Back to Portfolio](https://github.com/Revaun)
