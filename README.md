@@ -42,10 +42,11 @@ Proof includes model selection, prompt submission, and output inference.
 
 ---
 
-### 🌐 AWS Static Website Demo (S3)
-Deploy a static website to Amazon S3 with CI/CD automation.  
-Proof includes bucket setup, hosting configuration, public access policy, and live preview link.  
-➡️ [View Static Website Demo](aws-static-website-demo/)
+### 🌐 AWS Lambda Security Demo
+
+This project demonstrates the end-to-end process of configuring IAM credentials, creating a secure Lambda function, and invoking it successfully.  
+Proof includes CLI commands, IAM setup, function deployment, and snapshots showing troubleshooting, correction, and final success.  
+➡️ [View LambdaDemo](https://github.com/Revaun/LambdaDemo)
 
 ---
 
