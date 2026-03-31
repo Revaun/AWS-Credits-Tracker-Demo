@@ -58,17 +58,15 @@ SELECT * FROM demo;
 
 ---
 
-### Connectivity Verification
-
-- ![RDS Connection Proof](snapshots/Connection success.PNG)  
-  *Secure SSL connection established to RDS instance in af-south-1.*
+## 🔐 Connectivity Verification
+![RDS Connection Proof](https://github.com/Revaun/AWS-Credits-Tracker-Demo/blob/main/RDS-Database-Proof/snapshots/Connection%20success%20.PNG)  
+Secure SSL connection established to RDS instance in **af-south-1**.
 
 ---
 
-### Query Execution
-
-- ![RDS Query Proof](snapshots/Query Proof.png)  
-  *SQL query executed successfully — database operational.*
+## 📊 Query Execution
+![RDS Query Proof](https://github.com/Revaun/AWS-Credits-Tracker-Demo/blob/main/RDS-Database-Proof/snapshots/Query%20Proof.png)  
+SQL query executed successfully — database operational.
 
 ---
 
