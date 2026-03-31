@@ -1,4 +1,4 @@
-![AWS Portfolio Banner](Banner/AWS Portfolio Banner.png)
+![AWS Portfolio Banner](Banner-Images/credits_tracker_banner.png)
 
 # 🌍 AWS Credits Tracker Demo Portfolio
 
@@ -11,33 +11,25 @@ All demos were executed in the **af-south-1 (Cape Town)** region to highlight lo
 ## 📂 Project Index
 
 ### 🖥️ EC2 Setup Proof
-![EC2 Setup Proof Banner](EC2-Setup-Proof/EC2-Setup-Proof Banner/EC2-Setup-Proof.png)  
-Launch and validate an EC2 instance in Cape Town.  
-Proof includes AMI selection, instance configuration, SSH access, and hosted web server verification.  
+![EC2 Setup Proof Banner](Banner-Images/ec2_demo_banner.png)  
 ➡️ [View EC2 Setup Proof](EC2-Setup-Proof/)
 
 ---
 
 ### 🗄️ RDS Database Proof
-![RDS Setup Proof Banner](RDS-Database-Proof/RDS Setup Proof Banner/RDS Setup Proof Banner.png)  
-Deploy and connect to an Amazon RDS MySQL instance with SSL enabled.  
-Proof includes instance setup, secure connectivity, and SQL query execution.  
+![RDS Setup Proof Banner](Banner-Images/rds_setup_proof_banner.png)  
 ➡️ [View RDS Database Proof](RDS-Database-Proof/)
 
 ---
 
 ### 💰 Budget Proof AWS
-![BudgetProof‑AWS Banner](BudgetProof-AWS/BudgetProof-AWS banner/BudgetProof-AWS banner.png)  
-Configure AWS Budgets for proactive cost management.  
-Proof includes budget creation, threshold setup, and monitoring dashboard.  
+![BudgetProof Banner](Banner-Images/budgetproof_banner.png)  
 ➡️ [View Budget Proof AWS](BudgetProof-AWS/)
 
 ---
 
 ### 🤖 Bedrock Model Demo
-![Bedrock Model Demo Banner](Bedrock-Model-Demo/Bedrock Model Demo Banner.png)  
-Experiment with Amazon Bedrock foundation models.  
-Proof includes model selection, prompt submission, and output inference.  
+![Bedrock Banner](Banner-Images/bedrock_banner.png)  
 ➡️ [View Bedrock Model Demo](Bedrock-Model-Demo/)
 
 ---
@@ -66,4 +58,4 @@ Every demo is designed to be recruiter‑friendly, verifiable, and polished for 
 
 ---
 
-[⬅️ Back to Portfolio](../README.md)
+[⬅️ Back to Portfolio](https://github.com/Revaun)
